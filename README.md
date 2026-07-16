@@ -46,10 +46,6 @@
 | **[Clinic Appointment System](https://github.com/Alvina6)** | Full-stack app for managing clinic operations — bookings, patients, records | `Laravel` `PHP` `Blade` `MySQL` |
 | **[Social Media Feed](https://github.com/Alvina6/Social-Media-Feed)** | Console-based feed simulation using hash tables for user management | `Java` `Hash Tables` `DSA` |
 | **[Online Shopping Management System](https://github.com/Alvina6/Online-Shopping-Management-System-in-C)** | Console app for browsing products, cart management & transactions | `C` `Structures` `File I/O` |
-| **[Todo List App](https://github.com/Alvina6/Todo-list-App)** | Task manager with add/delete and due-date based filtering | `HTML` `CSS` `JavaScript` |
-| **[Rock Paper Scissors](https://github.com/Alvina6/game)** | Classic interactive game with clean UI and score tracking | `JavaScript` `DOM` |
-
-> 💡 Add repo links for QuestGuard once it's public — right now it's a private/local project, so I've pointed it to your profile.
 
 ---
 
